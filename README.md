@@ -9,7 +9,7 @@
 - **Languages:** JavaScript, TypeScript, SQL, HTML, CSS
 - **Frontend:** React, Vite, Tailwind CSS, EJS, Bootstrap
 - **Backend:** Node.js, Express, REST APIs, Socket.IO
-- **Databases:** PostgreSQL, MongoDB (Mongoose)
+- **Databases:** MSSQL, PostgreSQL, MongoDB (Mongoose)
 - **Tools and services:** Git, GitHub, Clerk, Stripe, Postman
 
 ## Featured projects
